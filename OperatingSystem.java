@@ -5,7 +5,7 @@ public class OperatingSystem {
 	protected int id;
 	
 	public OperatingSystem(String name, int id) {
-		this.name = name;
+		this.name = name + "Clonado";
 		this.id = id;
 	}
 	
